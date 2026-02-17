@@ -8,7 +8,7 @@ Je suis un passionné de cybersécurité et de développement Full-stack, actuel
 
 ## 🚀 À propos de moi
 * 🎓 **Formation :** Cycle Ingénieur en Sécurité IT à l'Université Cadi Ayyad.
-* 🔍 **Recherche :** Stage PFA de deux mois axé sur la cybersécurité (SOC) ou le développement applicatif.
+* 🔍 **Recherche :** Stage PFA de deux mois axé sur la cybersécurité ou le développement applicatif.
 * 🏆 **Compétition :** 34ème place au CTF organisé par AKASEC, 5ème place au CTF organisé par GCDSTE en collaboration avec JOBINTECH, finliste du Finale : AUSIM CyberDrill East Region V2
 * 🧪 **Hacking Lab :** Résolution active de machines sur TryHackMe (Anonforce, h4cked, mkingdom).
 
@@ -33,9 +33,11 @@ Je suis un passionné de cybersécurité et de développement Full-stack, actuel
 
 ## 📜 Certifications
 * ✅ Hacking Éthique
-* ✅ Introduction to Cybersecurity & Network Basics
-* ✅ Data Privacy & RGPD
+* ✅ Introduction to Cybersecurity 
+* ✅ Data Privacy
 * ✅ Python from Zero-to-Hero
+* ✅ Python POO (Programmation Orientée Objet en Python)
+
 
 ---
 
